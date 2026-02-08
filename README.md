@@ -1,4 +1,3 @@
-# Stable-Diffusion
 # Stable Diffusion (PyTorch)
 
 An implementation of a Stable Diffusion–style text-to-image pipeline built in PyTorch.
